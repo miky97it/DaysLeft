@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Giorni Rimanenti</string>
+    <string name="navigation_drawer_open">Apri il menú</string>
+    <string name="navigation_drawer_close">Chiudi il menú</string>
+    <string name="nav_header_title">Giorni mancanti</string>
+    <string name="action_settings">Impostazioni</string>
+</resources>
